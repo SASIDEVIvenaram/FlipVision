@@ -1,6 +1,6 @@
 # Flipkart Grid 6.O Robotic Challenge
 
-## 🎥 FlipVision in Action!
+# 🎥 FlipVision in Action!
 
 Watch this demo video to see FlipVision in action! 🚀
 

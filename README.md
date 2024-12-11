@@ -131,7 +131,7 @@ We are constantly working to make FlipVision even better! Stay tuned for:
    
 # Contributors
 
-We welcome contributions to FlipVision! Feel free to fork this repo, create new features, or report bugs. Together, we can make FlipVision the best e-commerce platform out there! 💡
+We welcome contributions to FlipVision! Feel free to fork this repo, create new features, or report bugs. Together, we can make FlipVision the best e-commerce platform out there!
 
  Explore FlipVision Now! 
 

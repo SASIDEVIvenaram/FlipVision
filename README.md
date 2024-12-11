@@ -141,4 +141,4 @@ Access the website: https://app.saveetha.in
 
 Website: https://app.saveetha.in
 
-Happy shopping and selling on FlipVision! 🎉
+Happy shopping and selling on FlipVision!

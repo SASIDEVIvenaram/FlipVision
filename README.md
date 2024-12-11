@@ -79,7 +79,7 @@ This AI-powered solution is designed to:
 - **Git/GitHub**: For managing the codebase and collaboration.
 
 ---
-# Installation
+## Installation
 
 1. Clone this repository:
    ```bash

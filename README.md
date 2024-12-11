@@ -2,10 +2,11 @@
 
 ## 🎥 FlipVision in Action!
 
-<video width="720" height="480" controls>
-  <source src="https://www.youtube.com/watch?v=Qvx1NjTqfPw" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+Watch this demo video to see FlipVision in action! 🚀
+
+[![FlipVision Demo](![image](https://github.com/user-attachments/assets/afe9a8c7-3b3a-493a-9abf-01a2da675092)
+)](https://www.youtube.com/watch?v=Qvx1NjTqfPw)
+
 
 
 

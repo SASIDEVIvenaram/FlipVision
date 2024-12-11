@@ -1,5 +1,11 @@
 # Flipkart Grid 6.O Robotic Challenge
 
+## 🎥 FlipVision in Action!
+
+Watch this demo video to see FlipVision in action! 🚀
+
+[![FlipVision Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
 # Project Overview
 This AI-powered solution is designed to detect product brand names, assess freshness levels, and extract expiry dates from product images. The system combines advanced object detection and text recognition technologies to deliver accurate and actionable insights.
 # Key Features

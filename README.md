@@ -36,7 +36,7 @@ Verifies and parses date-like patterns (e.g., "DD/MM/YYYY") using DMY detection.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/flipvision.git
+   git clone https://github.com/SASIDEVIvenaram/FlipVision.git
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt

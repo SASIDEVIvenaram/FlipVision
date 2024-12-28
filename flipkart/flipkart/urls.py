@@ -41,10 +41,6 @@ urlpatterns = [
     # Order Tracking and Management
     path('track-order/<int:order_id>/', views.track_order, name='track_order'),
     path('cancel-order/<int:order_id>/', views.cancel_order, name='cancel_order'),
-
-    # Seller Dashboard and Product Management
-    path('seller-dashboard/', views.seller_dashboard, name='seller_dashboard'),  # Seller dashboard page
-    path('seller/manage-products/', views.manage_products, name='manage_products'),  # Manage seller's products
     path('seller/add-product/', views.add_product, name='add_product'),  # Add new product
     path('seller/edit-product/<int:product_id>/', views.edit_product, name='edit_product'),  # Edit existing product
     path('seller/orders/', views.seller_orders, name='seller_orders'),  # View seller orders

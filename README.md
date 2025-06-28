@@ -1,4 +1,4 @@
-# 🎯Flipkart Grid 6.0 Robotic Challenge
+# 🎯Flipkart Grid 6.0 Robotic Challenge.
 
 ## 🎥 FlipVision in Action!
 
